@@ -6,8 +6,8 @@
 * To improve the Security system in efficient manner using Computer vision. 
 
 ### Work Flow
-![screenshot]{vs1.png}
+![screenshot](vs1.png)
 
 ### Result
 
-![Screenshot]{VS.png}
+![Screenshot](VS.png)
